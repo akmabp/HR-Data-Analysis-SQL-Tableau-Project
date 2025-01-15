@@ -1,4 +1,4 @@
-# HR-Data-Analysis-Project
+# HR-Data-Analysis-SQL-Tableau-Project
 This project analyzes HR data for a fictitious software company
 
 ## Description
