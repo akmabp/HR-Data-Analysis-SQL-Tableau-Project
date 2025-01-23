@@ -1,7 +1,7 @@
 # HR-Data-Analysis-SQL-Tableau-Project
 This project analyzes HR data for a fictitious software company
 
-## Description
+## Description:
 This project analyzes HR data for a fictitious software company, **Atlas Labs**, using SQL and Tableau. The focus is on exploring hiring trends, attrition rates, and factors affecting employee retention. By visualizing key metrics, we aim to provide actionable insights that help HR benchmark performance against industry standards.
 
 ## Objective
